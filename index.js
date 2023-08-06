@@ -14,15 +14,15 @@ function comprobar() {
         mensaje.style.color = 'whitesmoke';
         return
     } if (numeroIngresado === numeroRandom) {
-        mensaje.textContent = '¡Has ganado!';
+        mensaje.textContent = '✅¡Has ganado!✅';
         mensaje.style.color = 'springgreen';
         numeroEntrada.disabled = true;
         return
     } if (numeroIngresado > numeroRandom) {
-        mensaje.textContent = 'El numero es menor';
+        mensaje.textContent = '⬇️El numero es menor⬇️';
         mensaje.style.color = 'red';
     } if (numeroIngresado < numeroRandom) {
-        mensaje.textContent = 'El numero es mayor';
+        mensaje.textContent = '⬆️El numero es mayor⬆️';
         mensaje.style.color = 'red';
     }
 }
