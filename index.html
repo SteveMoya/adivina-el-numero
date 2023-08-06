@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adivina el Número</title>
+    <meta name="author" content="Steve Moya Cepeda">
+    <meta name="description" content="Adivinanza de Numeros">
+    <meta name="keywords" content="Adivinanza, Numeros, Juego">
+    <link rel="stylesheet" href="index.css">
+    <link rel="icon" href="logo.svg">
+    <link rel="shortcut icon" href="logo.svg" type="image/x-icon">
+    <script defer src="index.js"></script>
+</head>
+<body>
+    <main>
+    <h1>Adivina el número</h1>
+    <p>Introduce un número entre 1 y 100:</p>
+    <input type="number" id="numeroEntrada" placeholder="Escribelo aqui">
+    <button class="btn-check" onclick="comprobar()">Comprobar</button>
+    <p id="mensaje">¡Adivina!</p>
+    <h3>Historial de Intentos:</h3>
+    <p id="intento">0</p>
+    <button class="btn-refresh" onclick="javascript:window.location.reload();">Reiniciar</button>
+    </main>
+</body>
+</html>
