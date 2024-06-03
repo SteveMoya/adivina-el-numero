@@ -1,2 +1,51 @@
-# Juego-Adivinanza-De-Numero
- Este e s un juego de adivivnanza de numeros del 1 al 100 hecho con javascript
+# Adivina el Numero 1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣0️⃣
+
+![stevemoya github io_adivina-el-numero_](https://github.com/SteveMoya/adivina-el-numero/assets/114698709/fa52475a-d37e-4903-9a4b-3dfecb203275)
+
+
+## Ejemplo en vivo
+
+[![Website](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://stevemoya.github.io/adivina-el-numero/)
+
+## Descripción 📑
+
+Vamos a jugar un juego, vamos a adivinar un numero del 1 al 100, si ganas te doy estrellitas y si no pues, me la das tu
+
+## Tecnologías 🛠
+<!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+## IDE 💻
+
+![VisualStudioCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+
+### Requisitos Previos
+
+Este proyecto no necesita requerimientos ademas de utilizar tu navegador preferido para poder correrolo
+
+Recomendacion!: Recomiendo utilizar la extencion de [**Live Preview**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) para mayor comodidad
+
+
+## Steve Moya Cepeda ✒️
+
+Soy Pionero en la tendencia de el Marketing 5.0 en Republica Dominicana 
+
+[![instagram](https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/steve_moya_cepeda/)
+[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/steve-moya-cepeda-549469227/)
+[![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/SteveMoya)
+[![Website](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://stevemoya.me)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Stevenmc2015@hotmail.com)
+
+<h2 align="left">🎁 Support:</h2>
+
+<p><a href="https://www.buymeacoffee.com/stevemoya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buymeacoffe" />
+  </a>
+</p> 
+<p>
+  <a href="https://paypal.me/Stevemoyacepeda?country.x=DO&locale.x=es_XC"> <img align="left" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" width="210" alt="Paypal" />
+  </a>
+</p> 
+<br>
